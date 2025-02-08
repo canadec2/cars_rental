@@ -17,7 +17,7 @@
 ## 📦 Установка и запуск проекта
 
 ```bash
-git clone https://github.com/username/cars_rental.git
+https://github.com/canadec2/cars_rental.git
 cd cars_rental
 npm install
 npm start
